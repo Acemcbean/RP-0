@@ -783,7 +783,7 @@ scienceTech:
         cost: 500
 
     # The same, in a cool wedge.
-
+    # Shouldn't this be costed silghtly more? As in Magnetometer + Standard Wedge Cost?
     dmUSMagBoom:
         cost: 500
 
